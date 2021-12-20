@@ -1,10 +1,10 @@
 Summary:	Inspect container images and repositories on registries
 Name:		skopeo
-Version:	1.5.0
+Version:	1.5.2
 Release:	0.1
 License:	Apache v2.0
 Source0:	https://github.com/containers/skopeo/archive/v%{version}/%{name}-%{version}.tar.gz
-# Source0-md5:	-
+# Source0-md5:	1def68cb407fd310058e2c1558d2bc43
 URL:		https://github.com/containers/skopeo
 BuildRequires:	btrfs-progs-devel
 BuildRequires:	device-mapper-devel
